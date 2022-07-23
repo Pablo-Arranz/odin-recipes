@@ -8,6 +8,7 @@ h1 {
     font-family: "Brush Script MT";
 }
 
-div {
-    background-image: linear-gradient(45deg, #FF5A00, #FFAE00);
-  }
+img {
+    width: 500px;
+    height: auto;
+}
